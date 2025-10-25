@@ -52,32 +52,6 @@ Discord User Monitor es una aplicación de escritorio para monitorear la activid
     - En la pantalla principal, haz clic en "Ver Eventos" junto a un usuario monitoreado para ver su actividad reciente.
     - Haz clic en "Ver Todos los Eventos" para ver una cronología de todos los eventos de todos los usuarios monitoreados.
 
-## Para Desarrolladores
-
-Si deseas modificar el código o compilar la aplicación desde cero, sigue estos pasos:
-
-1.  **Clona el repositorio:**
-    ```bash
-    git clone https://github.com/tu-usuario/discord-user-monitor.git
-    cd discord-user-monitor
-    ```
-
-2.  **Instala las dependencias:**
-    ```bash
-    npm install
-    ```
-
-3.  **Ejecuta la aplicación en modo de desarrollo:**
-    ```bash
-    npm start
-    ```
-
-4.  **Compila la aplicación para producción:**
-    ```bash
-    npm run build
-    ```
-    Esto generará el instalador en la carpeta `dist`.
-
 ## Tecnologías Utilizadas
 
 -   **Electron:** Para crear la aplicación de escritorio.
